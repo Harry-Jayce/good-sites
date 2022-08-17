@@ -1,0 +1,26 @@
+title = "My love Video website collection"
+
+[movie.forest]
+name = "movie forest"
+href = "https://www.549.tv/"
+
+[movie.imdb]
+href = "https://www.imdb.tv/"
+
+[bili]
+name = "B站"
+href = "https://www.bilibili.com/"
+
+
+[live.douyu]
+name = "斗鱼"
+href = "https://www.douyu.com/"
+
+[live.huya]
+name = "虎牙"
+href = "https://www.huya.com/"
+
+[outside.youtube]
+name = "YouTube"
+href = "https://www.youtube.com/"
+

@@ -1,0 +1,10 @@
+
+[webster]
+name = "韦氏词典"
+href = "https://www.merriam-webster.com/"
+
+[dictionary]
+href = "dictionary.com"
+
+[some1]
+herf = "https://www.thesaurus.com/"
